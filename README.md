@@ -1,6 +1,6 @@
 # Termux interface Qurxin 
 
-<img width="200px"> <img src="https://i.ibb.co/fVnp1kz5/Termux-banner-or-interface.png" alt="Termux-banner-or-interface" border="0">
+<img src="https://i.ibb.co/fVnp1kz5/Termux-banner-or-interface.png" alt="Termux-banner-or-interface" width="200px" border="0">
 
 ### Kali👿Purple👿#!$👿Install bash script for Termux 
 
