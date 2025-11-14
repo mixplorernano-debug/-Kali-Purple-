@@ -2,8 +2,22 @@
 
 <img width="200px"> <img src="https://i.ibb.co/fVnp1kz5/Termux-banner-or-interface.png" alt="Termux-banner-or-interface" border="0">
 
+### Kali👿Purple👿#!$👿Install bash script for Termux 
 
+```
+bash
+   termux-setup-storage
+   pkg install wget
+   wget -O install-nethunter-termux https://offs.ec/2MceZWr
+   chmod +x install-nethunter-termux
+   ./install-nethunter-termux
 
+```
+```
+   bash
+   nethunter
+```
+```
 #### Qurxin is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
 
 ## [+] Installation & Usage :atom_symbol:
